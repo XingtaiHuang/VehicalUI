@@ -1,0 +1,164 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home China; OS build 19042.1083; Version 2009; 64bit' Language: 'zh' Physical Memory: 32631 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/Test/Kart1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+31798
+Successfully changed project path to: D:/Unity/Test/Kart1
+D:/Unity/Test/Kart1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 108.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.13f1 (71691879b7f5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/Test/Kart1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro M1000M (ID=0x13b1)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   26.21.14.4270
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56128
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.009121 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 69.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unable to find bridge dll in registry for Microsoft Visual Studio Tools for Unity for C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\\devenv.exe
+Mono: successfully reloaded assembly
+- Completed reload, in  2.445 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.013526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 70.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.867 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2759 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.3 MB.
+System memory in use after: 130.4 MB.
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 3180.
+Total: 4.950900 ms (FindLiveObjects: 0.292100 ms CreateObjectMapping: 0.303400 ms MarkObjects: 4.117300 ms  DeleteObjects: 0.236900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Mod Assets/3DProps/FoodProps/Lollipop.fbx
+  artifactKey: Guid(4ae0a8e21fe944960ae7238feeda49f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mod Assets/3DProps/FoodProps/Lollipop.fbx using Guid(4ae0a8e21fe944960ae7238feeda49f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25ce5c10230f261d683f9a6bb0f34862') in 0.304539 seconds 
+  Import took 0.310009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Mod Assets/ModResources/HatMeshes/GlassesMesh.fbx
+  artifactKey: Guid(be949c77dc28c459280b4981f6495d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mod Assets/ModResources/HatMeshes/GlassesMesh.fbx using Guid(be949c77dc28c459280b4981f6495d99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b2529a6cd937dd5bda15edfdbadc62') in 0.083268 seconds 
+  Import took 0.089297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Mod Assets/3DProps/FoodProps/Licorice.fbx
+  artifactKey: Guid(a6ff71d7327404fa29bb26a648cfe3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mod Assets/3DProps/FoodProps/Licorice.fbx using Guid(a6ff71d7327404fa29bb26a648cfe3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dad99498c1a785facb75edd1b557cf9') in 0.085887 seconds 
+  Import took 0.091321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Karting/Art/Models/Horizon.FBX
+  artifactKey: Guid(18f9f64257e02ef41831fe2f867cb118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Horizon.FBX using Guid(18f9f64257e02ef41831fe2f867cb118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae617704aff76c1e328a27fb795d614d') in 0.080333 seconds 
+  Import took 0.085208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Karting/Art/Models/Kart_Classic/KartClassic_Body.fbx
+  artifactKey: Guid(d3aa50a8114db7a4e95c5cb29a283ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Kart_Classic/KartClassic_Body.fbx using Guid(d3aa50a8114db7a4e95c5cb29a283ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892d5067be42ab16462886cf2f24a6f5') in 0.040824 seconds 
+  Import took 0.050699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Karting/Art/Models/Mesh_Sun.fbx
+  artifactKey: Guid(d16b83a71cf8a44c497e10545a79767f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Mesh_Sun.fbx using Guid(d16b83a71cf8a44c497e10545a79767f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b319554f585f7663ac36c7e41d21819') in 0.032433 seconds 
+  Import took 0.038830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Karting/Art/Models/Kart_Classic/KartClassic_Wheels.fbx
+  artifactKey: Guid(305a556307b36464395aa157cffcd3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Kart_Classic/KartClassic_Wheels.fbx using Guid(305a556307b36464395aa157cffcd3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feaefd3dddb67ca5c3323bb6f44c311e') in 0.089190 seconds 
+  Import took 0.097684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Karting/Art/Models/Hill.fbx
+  artifactKey: Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Hill.fbx using Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc56608e887a43896f8bdbfbee754104') in 0.039292 seconds 
+  Import took 0.045730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Karting/Art/Models/GroundPlane.fbx
+  artifactKey: Guid(21fe29e73ae4cc842b0d5e9ca6e345f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/GroundPlane.fbx using Guid(21fe29e73ae4cc842b0d5e9ca6e345f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ff8eb67f2a22b032e94e8550e0c427') in 0.044753 seconds 
+  Import took 0.052074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Karting/Art/Models/Hill.fbx
+  artifactKey: Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Karting/Art/Models/Hill.fbx using Guid(92bb9994204d1d44cb6223c53e4f84f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc56608e887a43896f8bdbfbee754104') in 0.019008 seconds 
+  Import took 0.025404 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
